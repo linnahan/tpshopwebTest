@@ -1,0 +1,31 @@
+*.log
+*.exe
+*.xlsx
+*.xls
+*.xlsb
+*.avi
+*.csv
+*.html
+*.db
+
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+ 
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+
+ 
+# My configurations:
+db.ini
+deploy_key_rsa
+/.metadata/
+
+#others
+__pycache__
+*.pyc
